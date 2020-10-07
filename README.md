@@ -1,2 +1,2 @@
 # 20201007_test
- HTML+CSS実習用の確認用
+ HTML+CSS実習の確認用
